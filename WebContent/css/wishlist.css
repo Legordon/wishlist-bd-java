@@ -1,0 +1,40 @@
+html {
+}
+
+body {
+    background-color: lightslategrey;
+}
+
+#containerHome {
+    background: white;
+    height: 100vh;
+    box-shadow: 0px 0px 15px black;
+}
+
+.jumbotron {
+    margin-top: 100px;
+}
+
+.page-header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 0px;
+}
+
+.page-header h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 40px;
+}
+
+#modalInsert form {
+    margin: 20px 0 20px 0;
+}
+
+#boutonAjouter {
+    margin-top: 50px;
+}
+
+#listeBD {
+    margin-top: 80px;
+}
